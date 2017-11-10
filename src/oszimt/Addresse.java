@@ -1,4 +1,4 @@
 package oszimt;
 
-public class Addresse {
+class Addresse {
 }
