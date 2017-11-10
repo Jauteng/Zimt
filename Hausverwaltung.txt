@@ -20,3 +20,4 @@ Mieter	-> Vorname
 		-> Verzug (bool)
 
 Anmeldung	-> Nutzerabfrage + Passwort
+        -> Administrative Nutzer
