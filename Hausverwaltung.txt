@@ -1,0 +1,22 @@
+Haus	-> Wohnungen
+		-> letzter Reinigungsbesuch
+		-> Keller (bool + m²)
+		-> Adresse
+
+Wohnung -> Miete
+		-> Mieter (in welchen Wohnungen)
+		-> Räume
+		-> Größe
+		-> Balkon (boolean)
+
+Adresse	-> Straße
+		-> Hausnr
+		-> PLZ
+		-> Zusatz
+
+Mieter	-> Vorname
+		-> Nachname
+		-> Mietdauer
+		-> Verzug (bool)
+
+Anmeldung	-> Nutzerabfrage + Passwort
