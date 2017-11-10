@@ -2,7 +2,7 @@ package oszimt;
 
 public class Haus {
     private int zahl;
-
+    private int zahl6;
     public Haus(){
 
     }
